@@ -86,3 +86,18 @@ footer {
     width: 100%;
     bottom: 0;
 }
+/* Additional custom styles */
+.hero {
+    background: url('hero-image.jpg') no-repeat center center/cover;
+}
+
+#about, #services, #contact {
+    margin-top: 100px;
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
